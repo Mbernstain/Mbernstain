@@ -1,34 +1,37 @@
-👋 Hi, I’m @Mbernstain  
-- 👀 I’m interested in driving innovative SaaS solutions and fostering high-performance development teams.
-- 🌱 I’m currently focused on enhancing my expertise in cloud-based applications, advanced frontend frameworks, and scalable backend systems.
-- 💞️ I’m looking to collaborate on impactful B2C projects that leverage full-stack development and user-centric design.
-- 📫 How to reach me: mbernstain86@gmail.com
+## Hi, I’m @Mbernstain
+
+- 💡 I’m an exceptional leader and technological wiz passionate about driving innovative SaaS solutions and building high-performance development teams.
+- 🕵️‍♂️ Always exploring advanced frontend frameworks, scalable backend systems, and cloud-native architectures.
+- 🚀 I specialize in creating impactful B2C products with full-stack expertise and a focus on user-centric design.
+- 📧 How to reach me: mbernstain86@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a strong background in both software engineering and team management, making it exciting to bridge technical and leadership roles.
+- ✨ Fun fact: My unique blend of deep technical expertise and strategic leadership empowers me to deliver innovative solutions that drive business success.
 
 ---
 
 ### 🏆 Professional Overview
 
-With over **8 years** in software development and **10+ years** in management and leadership, I bring a wealth of experience in delivering scalable, cloud-based solutions. My roles have included:
+With over **10 years** of experience in software development and leadership, I excel at delivering cutting-edge, scalable solutions while fostering team excellence. Key highlights include:
 
-- **2020–Present**: Leading multiple development teams to deliver B2C products with a focus on performance optimization, technical improvements, and UX/UI alignment.
-- **2017–2020**: Developing enterprise-grade software, emphasizing performance, scalability, and secure architecture.
-- **2016–2017**: Ensuring software quality through strategic testing and continuous improvements.
+- **2020–Present**: Spearheading multiple teams to launch high-impact B2C products, optimizing performance, and aligning technical strategies with UX/UI excellence.
+- **2017–2020**: Architected and developed enterprise-grade, cloud-based software emphasizing performance, scalability, and secure designs.
+- **2016–2017**: Established robust software quality assurance processes, ensuring continuous improvement and system reliability.
 
-### ⚙️ Technical Proficiencies
+---
+
+### ⚙️ Technical Expertise
 
 - **Languages**: JavaScript, TypeScript, SQL, NoSQL
-- **Frameworks**: Angular, Flutter, C#
-- **DevOps Tools**: Docker, Kubernetes, Git, CI/CD tools (CircleCI, TravisCI)
-- **Cloud Platforms**: AWS, GCP/Firebase
+- **Frameworks**: Angular, Flutter, C#, Node.js
+- **DevOps Tools**: Docker, Kubernetes, Git, CI/CD pipelines (CircleCI, TravisCI)
+- **Cloud Platforms**: AWS, Google Cloud/Firebase, Azure
+- **Others**: TensorFlow.js, MongoDB, RESTful and GraphQL APIs
 
-### 🎖 Accomplishments
+---
 
-- Recognized for outstanding teamwork and contributions to project success.
-- Successfully scaled teams while promoting a cohesive, knowledge-sharing culture.
+### 🎉 Key Achievements
 
-<!---
-Mbernstain/Mbernstain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Innovative Leadership**: Successfully scaled and mentored development teams, cultivating a culture of knowledge sharing and high performance.
+- **Technical Visionary**: Delivered multiple SaaS solutions with a proven track record of bridging technical depth and strategic execution.
+- **Awarded Excellence**: Consistently recognized for outstanding technical contributions and leadership in large-scale projects.
+
